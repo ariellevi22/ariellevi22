@@ -8,3 +8,8 @@ Last summer, I worked as an application developer intern at [Evergy](https://www
 where I created tools and integrations to help employees be more productive at work.
 Currently, I am looking for front-end or full-stack software engineering internship opportunities
 for summer 2022 to continue to grow my skillset and apply my learning to a real-world environment.
+
+Learn more about me:
+
+* [LinkedIn](https://www.linkedin.com/in/ariel-levi/)
+* [Personal Website](https://alevi22.github.io/)
