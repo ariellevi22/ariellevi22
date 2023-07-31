@@ -1,4 +1,4 @@
-# Ariel Levi (@alevi22)
+# Ariel Levi
 
 Hi there, I'm Ariel! I am a software engineer and UI/UX designer passionate about technology and its ability to make the world a better place. I strive to craft intuitive, memorable experiences for people&mdash;to realize the full potential of technology to improve our world.
 
