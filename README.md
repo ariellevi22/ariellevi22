@@ -8,5 +8,5 @@ I recently graduated with a Bachelor of Science in Computer Science and minors i
 
 ## 🤝 Connect With Me
 
--   [Personal Portfolio Website](https://alevi22.github.io/)
+-   [Personal Portfolio Website](https://ariellevi22.github.io/)
 -   [LinkedIn](https://www.linkedin.com/in/ariel-levi/)
