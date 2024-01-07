@@ -2,9 +2,9 @@
 
 ## About Me
 
-Hi there, I'm Ariel! I am a software engineer and UI/UX designer passionate about technology and its ability to make the world a better place. I strive to craft intuitive, memorable experiences for people&mdash;to realize the full potential of technology to improve our world.
+Hi, I'm Ariel! I am a software engineer passionate about building technology to make the world a better place. I craft web applications with a focus on clean code, beautiful design, and intuitive user experiences.
 
-I recently joined [Garmin](https://www.garmin.com/en-US/company/about-garmin/) as a software engineer, where I am excited to keep learning and growing my skills!
+As a software engineer at [Garmin](https://www.garmin.com/company/about-garmin/), I work with incredibly talented teammates to build [Garmin Connect](https://connect.garmin.com/), helping millions of people gain insights into their health and well-being. My technical proficiency revolves around React.js on the frontend and Node.js/Express.js on the backend, but I am always looking for new ways to learn and expand my skills!
 
 ## Connect With Me
 
