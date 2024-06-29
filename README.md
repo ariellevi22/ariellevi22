@@ -1,8 +1,10 @@
-<picture>
-  <source srcset="/assets/banner-light.png" media="(prefers-color-scheme: light)" />
-  <source srcset="/assets/banner-dark.png" media="(prefers-color-scheme: dark)" />
-  <img src="/assets/banner-light.png" alt="Ariel Levi"/>
-</picture>
+<a href="https://ariellevi22.github.io" rel="noopener noreferrer">
+    <picture>
+        <source srcset="/assets/banner-light.png" media="(prefers-color-scheme: light)" />
+        <source srcset="/assets/banner-dark.png" media="(prefers-color-scheme: dark)" />
+        <img src="/assets/banner-light.png" alt="Ariel Levi"/>
+    </picture>
+</a>
 
 ## About Me
 
