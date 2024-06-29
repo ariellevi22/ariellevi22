@@ -1,4 +1,4 @@
-<a href="https://ariellevi22.github.io" rel="noopener noreferrer">
+<a href="https://ariellevi22.github.io" target="_blank" rel="noopener noreferrer">
     <picture>
         <source srcset="/assets/banner-light.png" media="(prefers-color-scheme: light)" />
         <source srcset="/assets/banner-dark.png" media="(prefers-color-scheme: dark)" />
