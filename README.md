@@ -1,4 +1,8 @@
-![Ariel Levi](/assets/banner.gif)
+<picture>
+  <source srcset="/assets/banner-light.png" media="(prefers-color-scheme: light)" />
+  <source srcset="/assets/banner-dark.png" media="(prefers-color-scheme: dark)" />
+  <img src="/assets/banner-light.png" alt="Ariel Levi"/>
+</picture>
 
 ## About Me
 
